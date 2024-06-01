@@ -20,7 +20,7 @@ This is the architecture implemented in this project:
 ![image](https://github.com/super-fz/AWS-Cloud-Infrastructure-For-Coffee-Shop/assets/122122054/3f81864f-ef0a-49b9-8aaf-d4923fdde173)
 
 
-A detailed manual in this repository shows the step-by-step methodology and implementation of the cloud architecture.
+A detailed manual in this repository shows the step-by-step methodology and implementation of the cloud architecture to deploy and host the coffee shop's website.
 
 ![coffee website](https://github.com/super-fz/AWS-Cloud-Infrastructure-For-Coffee-Shop/assets/122122054/e0497fc7-67c6-4779-8356-4cf94e13b264)
 
