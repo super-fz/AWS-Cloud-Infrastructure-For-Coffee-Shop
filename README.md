@@ -15,6 +15,7 @@ This project involves the detailed design and implementation of an AWS Cloud Inf
 <img src = "https://github.com/super-fz/AWS-Cloud-Infrastructure-For-Coffee-Shop/assets/122122054/a5b722a1-72b2-4239-b3f6-de4e3e2ff080" height = "55">
 <img src = "https://github.com/super-fz/AWS-Cloud-Infrastructure-For-Coffee-Shop/assets/122122054/63f5c854-7de2-4cfd-a169-8da11d7d8638" height = "55">
 
+
 This is the architecture implemented in this project:
 
 ![image](https://github.com/super-fz/AWS-Cloud-Infrastructure-For-Coffee-Shop/assets/122122054/3f81864f-ef0a-49b9-8aaf-d4923fdde173)
